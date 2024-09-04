@@ -1,7 +1,7 @@
-# John Doe's Portfolio
+# Junwook Kim's Portfolio
 
 ## About Me
-I am a software developer with a passion for building web applications and exploring new technologies.
+I am a Data engineer and IT Professional with a passion for building data pipe line and exploring new technologies.
 
 ## Projects
 ### [Project 1](https://github.com/username/project1)
